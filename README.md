@@ -6,7 +6,6 @@
 </div>
 
 ## 🍁 Chi sono
-- **Nome:** Rebecca Sanua
 - **Corso di studio:** Informatica
 - **Università:** Università di Genova
 - **Interessi:** 💻 Programmazione • 🌿 Sviluppo Web e Mobile 
