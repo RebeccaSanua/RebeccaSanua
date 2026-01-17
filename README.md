@@ -6,7 +6,7 @@
 </div>
 
 ## 🍁 Chi sono
-- **Corso di studio:** Informatica
+- **Corso di studio:** Laurea Magistrale in Computer Science
 - **Università:** Università di Genova
 - **Interessi:** 💻 Programmazione • 🌿 Sviluppo Web e Mobile 
 
